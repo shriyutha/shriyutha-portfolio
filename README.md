@@ -10,7 +10,7 @@
 
 ---
 
-website: [![website](https://img.shields.io/badge/website-yellow?logo=website&logoColor=white)]([https://www.linkedin.com/in/shriyutha-k-u-97b701186/](https://shriyutha.github.io/shriyutha-portfolio/)
+Portfolio website: [![website](https://img.shields.io/badge/website-yellow?logo=website&logoColor=white)](https://shriyutha.github.io/shriyutha-portfolio/)
 
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyutha-k-u-97b701186/)
