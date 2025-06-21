@@ -8,7 +8,11 @@
 
 📞 +1 510-953-8264  
 
+---
+website: [![website](https://img.shields.io/badge/website-red?logo=website&logoColor=white)]([https://www.linkedin.com/in/shriyutha-k-u-97b701186/](https://shriyutha.github.io/shriyutha-portfolio/
+))
 
+---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyutha-k-u-97b701186/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shriyutha)
 [![Medium](https://img.shields.io/badge/medium-green?logo=medium&logoColor=white)](https://medium.com/me/stories/public)
