@@ -3,6 +3,7 @@
 # Shriyutha K U – Data Science Portfolio
 
 📍 San Jose, CA  
+
 📧 nidhivinay24@gmail.com 
 
 📞 +1 510-953-8264  
@@ -10,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyutha-k-u-97b701186/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shriyutha)
-[![Medium](https://medium.com/me/stories/public)]
-[![Kaggle](https://www.kaggle.com/work)]
+[![Medium](https://img.shields.io/badge/medium-green?logo=medium&logoColor=white)](https://medium.com/me/stories/public)
+[![Kaggle](https://img.shields.io/badge/kaggle-pink?logo=kaggle&logoColor=white)](https://www.kaggle.com/work)
 
 ---
 
