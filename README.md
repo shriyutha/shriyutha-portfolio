@@ -3,24 +3,20 @@
 # Shriyutha K U – Data Science Portfolio
 
 📍 San Jose, CA  
-📧 nidhivinay24@gmail.com |  📞 +1 510-953-8264  
-🔗 [LinkedIn](https://linkedin.com/in/shriyutha-k-u-97b701186) | [GitHub](https://github.com/shriyutha) | [Medium] (https://medium.com/me/stories/public) | [Kaggle] (https://www.kaggle.com/work)
+📧 nidhivinay24@gmail.com 
+📞 +1 510-953-8264  
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyutha-k-u-97b701186/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shriyutha)
+[! Medium](https://medium.com/me/stories/public) 
+[!Kaggle](https://www.kaggle.com/work)
 
 ---
 
 ###  About Me
 
-Hi! I'm Shriyutha — Aspiring data analyst currently pursuing an M.S. in Data Science at the University of Colorado Boulder, passionate about turning data into actionable insights through analysis, visualization, and AI. I love using technology to solve real-world problems and am eager to contribute to data-driven decision-making. Seeking internship and full-time opportunities to apply my skills in data science.
----
-
-
-# Shriyutha K U
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyutha-k-u-97b701186/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/shriyutha)
-
-San Jose • nidhivinay24@gmail.com • +1 510-953-8264
-
+Hi! I'm Shriyutha — Aspiring data analyst currently pursuing an M.S. in Data Science at the University of Colorado Boulder, passionate about turning data into actionable insights through analysis, visualization, and AI. I love using technology to solve real-world problems and am eager to contribute to data-driven decision-making. Seeking internships and full-time opportunities to apply my skills in data science.
 ---
 
 
