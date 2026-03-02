@@ -45,7 +45,7 @@ Performed exploratory data analysis to identify trends and performance patterns
 Developed SQL queries and automated reporting workflows
 Created dashboards and reports for stakeholders
 
-**rProcess Associate**
+**Data Associate**
 rProcess Outsourcing Services | Jun 2016 – Feb 2018
 
 Managed and validated high volume market data across US, UK, and Canadian markets
