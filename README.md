@@ -85,7 +85,7 @@ Evaluated model performance using accuracy, precision, recall, F1-score, and ROC
 
 ###  Projects
 
-**Online Retail Sales Database & Analytics Dashboard**
+**1. Online Retail Sales Database & Analytics Dashboard**
 
 Tools: PostgreSQL, MySQL, Tableau
 
@@ -97,7 +97,7 @@ Key Highlights:
 - Identified top performing products and revenue drivers
 - Optimized query performance using indexing
 
-**A/B Testing & Conversion Impact Analysis**
+**2. A/B Testing & Conversion Impact Analysis**
 
 Tools: Python, Pandas, SciPy
 
@@ -109,7 +109,7 @@ Key Highlights:
 - Delivered data backed recommendations
 - Visualized experiment results for stakeholder clarity
 
-**Customer Lifetime Value (LTV) & Cohort Retention Analysis**
+**3. Customer Lifetime Value (LTV) & Cohort Retention Analysis**
 
 Tools: Python, Data Visualization
 
@@ -121,7 +121,7 @@ Key Highlights:
 - Visualized revenue contribution by cohort
 - Provided recommendations to improve retention
 
-**RFM Customer Segmentation Dashboard**
+**4. RFM Customer Segmentation Dashboard**
 
 Tools: Python, Tableau
 
@@ -132,6 +132,8 @@ Key Highlights:
 - Built dashboards to visualize segment distribution
 - Identified revenue concentration among high value segments
 - Provided targeted retention strategy insights
+
+---
 
 ### Technical Skills
 
@@ -164,3 +166,5 @@ Segmented customers using Recency, Frequency, and Monetary modeling. Built dashb
 ###  Get in Touch
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shriyutha-k-u-97b701186/) or check out my [GitHub](https://github.com/shriyutha).
+
+---
