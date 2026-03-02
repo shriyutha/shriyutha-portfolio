@@ -31,6 +31,7 @@ Customer Lifetime Value (CLV) modeling
 RFM customer segmentation
 Dashboard development and KPI reporting
 I am currently seeking entry level Data Analyst or Business Analyst roles where I can contribute to data driven decision making and measurable business impact.
+
 ---
 
 
@@ -48,6 +49,7 @@ rProcess Outsourcing Services | Jun 2016 – Feb 2018
 Managed and validated high volume market data across US, UK, and Canadian markets
 Ensured data accuracy and supported reporting initiatives
 Identified consumer behavior trends to support business insights
+
 ---
 
 ### Education
@@ -70,30 +72,62 @@ _June 2022 – May 2025_
 
 ###  Projects
 
-| Project | Tools | Summary |
-|--------|-------|---------|
-| [Starbucks Capstone](./projects/starbucks.md) | Python, Sklearn, Pandas | Predicted customer responses to marketing offers |
-| [Amazon Review Analyzer](./projects/amazon.md) | Python, NLP | Predicted sentiment and improved product suggestions |
+**Online Retail Sales Database & Analytics Dashboard**
+Tools: PostgreSQL, MySQL, Tableau
+Designed and implemented a fully normalized (3NF) relational database for an electonic commerce platform. Developed advanced SQL queries using JOIN, GROUP BY, and aggregate functions to analyze revenue, product performance, and customer purchasing trends. Built interactive dashboards to visualize KPIs and sales metrics.
+Key Highlights:
+Designed scalable ER model with referential integrity
+Created reusable SQL views for reporting
+Identified top performing products and revenue drivers
+Optimized query performance using indexing
 
-Online Retail Sales Database & Dashboard
+**A/B Testing & Conversion Impact Analysis**
+Tools: Python, Pandas, SciPy
+Designed and analyzed controlled experiments to evaluate differences in conversion rates between user groups. Applied hypothesis testing (z-test / t-test), calculated confidence intervals, and measured conversion lift.
+Key Highlights:
+Defined null and alternative hypotheses
+Quantified statistical significance
+Delivered data-backed recommendations
+Visualized experiment results for stakeholder clarity
+
+**Customer Lifetime Value (LTV) & Cohort Retention Analysis**
+Tools: Python, Data Visualization
+Calculated Customer Lifetime Value using transactional data and repeat purchase behavior. Performed cohort analysis by grouping customers by first purchase month to measure retention trends over time.
+Key Highlights:
+Built cohort tables to track retention patterns
+Identified high-value customer segments
+Visualized revenue contribution by cohort
+Provided recommendations to improve retention
+
+**RFM Customer Segmentation Dashboard**
+Tools: Python, Tableau
+Segmented customers using Recency, Frequency, and Monetary modeling to classify behavior patterns and revenue contribution.
+Key Highlights:
+Categorized customers into Champions, Loyal, At Risk, and Dormant groups
+Built dashboards to visualize segment distribution
+Identified revenue concentration among high-value segments
+Provided targeted retention strategy insights
+
+### Technical Skills
+- SQL: PostgreSQL, MySQL
+- Programming: Python (Pandas, NumPy, SciPy), R
+- Analytics: EDA, Data Cleaning, Data Mining, Data Modeling, A/B Testing, Hypothesis Testing, Cohort Analysis, CLV, RFM Segmentation
+- Visualization: Tableau, Matplotlib, Seaborn
+- Tools: pgAdmin, Git, Jupyter Notebook, Lucidchart, RStudio
+
+**Online Retail Sales Database & Dashboard**
 Designed a fully normalized relational database (3NF) using PostgreSQL and MySQL. Developed SQL queries, views, and dashboards to analyze revenue, product performance, and customer behavior.
 
-A/B Testing & Conversion Analysis
+**A/B Testing & Conversion Analysis**
 Conducted statistical testing to evaluate conversion rate differences between control and treatment groups. Measured conversion lift and provided recommendations based on statistical significance.
 
-Customer Lifetime Value & Cohort Analysis
-Performed cohort-based retention analysis and calculated CLV using transactional data. Identified high-value customer segments contributing long-term revenue.
+**Customer Lifetime Value & Cohort Analysis**
+Performed cohort based retention analysis and calculated CLV using transactional data. Identified high value customer segments contributing long term revenue.
 
-RFM Customer Segmentation Dashboard
+**RFM Customer Segmentation Dashboard**
 Segmented customers using Recency, Frequency, and Monetary modeling. Built dashboards highlighting revenue contribution and retention risk segments.
 
 ---
-
-###  Skills
-
-- **Languages & Tools:** Python, SQL, R, Pandas, Scikit-learn, Tableau  
-- **Techniques:** EDA, Data Cleaning, Machine Learning, A/B Testing  
-- **Tools:** Git, Jupyter, GitHub, GitHub Pages
 
 ###  Get in Touch
 
