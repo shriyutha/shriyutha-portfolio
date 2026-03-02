@@ -39,6 +39,7 @@ I am currently seeking entry level Data Analyst or Business Analyst roles where 
 
 **Data Analyst Intern**  
 Unified Mentor Pvt. Ltd. | Sep 2025 – Dec 2025
+
 Cleaned and transformed structured datasets to improve reporting accuracy
 Performed exploratory data analysis to identify trends and performance patterns
 Developed SQL queries and automated reporting workflows
@@ -46,6 +47,7 @@ Created dashboards and reports for stakeholders
 
 **rProcess Associate**
 rProcess Outsourcing Services | Jun 2016 – Feb 2018
+
 Managed and validated high volume market data across US, UK, and Canadian markets
 Ensured data accuracy and supported reporting initiatives
 Identified consumer behavior trends to support business insights
@@ -84,7 +86,9 @@ Evaluated model performance using accuracy, precision, recall, F1-score, and ROC
 ###  Projects
 
 **Online Retail Sales Database & Analytics Dashboard**
+
 Tools: PostgreSQL, MySQL, Tableau
+
 Designed and implemented a fully normalized (3NF) relational database for an electonic commerce platform. Developed advanced SQL queries using JOIN, GROUP BY, and aggregate functions to analyze revenue, product performance, and customer purchasing trends. Built interactive dashboards to visualize KPIs and sales metrics.
 
 Key Highlights:
@@ -94,7 +98,9 @@ Key Highlights:
 - Optimized query performance using indexing
 
 **A/B Testing & Conversion Impact Analysis**
+
 Tools: Python, Pandas, SciPy
+
 Designed and analyzed controlled experiments to evaluate differences in conversion rates between user groups. Applied hypothesis testing (z-test / t-test), calculated confidence intervals, and measured conversion lift.
 
 Key Highlights:
@@ -104,7 +110,9 @@ Key Highlights:
 - Visualized experiment results for stakeholder clarity
 
 **Customer Lifetime Value (LTV) & Cohort Retention Analysis**
+
 Tools: Python, Data Visualization
+
 Calculated Customer Lifetime Value using transactional data and repeat purchase behavior. Performed cohort analysis by grouping customers by first purchase month to measure retention trends over time.
 
 Key Highlights:
@@ -114,7 +122,9 @@ Key Highlights:
 - Provided recommendations to improve retention
 
 **RFM Customer Segmentation Dashboard**
+
 Tools: Python, Tableau
+
 Segmented customers using Recency, Frequency, and Monetary modeling to classify behavior patterns and revenue contribution.
 
 Key Highlights:
@@ -124,11 +134,14 @@ Key Highlights:
 - Provided targeted retention strategy insights
 
 ### Technical Skills
+
 - SQL: PostgreSQL, MySQL
 - Programming: Python (Pandas, NumPy, SciPy), R
 - Analytics: EDA, Data Cleaning, Data Mining, Data Modeling, A/B Testing, Hypothesis Testing, Cohort Analysis, CLV, RFM Segmentation
 - Visualization: Tableau, Matplotlib, Seaborn
 - Tools: pgAdmin, Git, Jupyter Notebook, Lucidchart, RStudio
+
+---
 
 **Online Retail Sales Database & Dashboard**
 
