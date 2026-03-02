@@ -45,6 +45,7 @@ Developed SQL queries and automated reporting workflows
 Created dashboards and reports for stakeholders
 
 **rProcess Associate**
+
 rProcess Outsourcing Services | Jun 2016 – Feb 2018
 Managed and validated high volume market data across US, UK, and Canadian markets
 Ensured data accuracy and supported reporting initiatives
@@ -57,8 +58,17 @@ Identified consumer behavior trends to support business insights
 **MS in Computational Science**  
 _University of Colorado Boulder_  
 _June 2022 – May 2025_
-- Relevant coursework: Data Mining, Machine Learning, NLP, Databases, Statistical Modeling, Generative AI
 
+- Relevant Coursework:
+Machine Learning, Artificial Intelligence, Data Mining, Statistical Modeling, Natural Language Processing (NLP), Database Systems, Generative AI
+
+- Academic Highlights:
+Built and evaluated machine learning models for classification and regression tasks
+Applied statistical modeling and hypothesis testing to real world datasets
+Designed relational databases and implemented normalization principles (3NF)
+Developed NLP based sentiment analysis models for text classification
+Implemented end to end data workflows including data cleaning, feature engineering, modeling, and visualization
+Evaluated model performance using accuracy, precision, recall, F1-score, and ROC metrics
 ---
 
 ###  Courses
