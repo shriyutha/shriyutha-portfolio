@@ -22,20 +22,32 @@ Portfolio website: [![website](https://img.shields.io/badge/website-yellow?logo=
 
 ###  About Me
 
-Hi! I'm Shriyutha — Aspiring data analyst currently pursuing an M.S. in Data Science at the University of Colorado Boulder, passionate about turning data into actionable insights through analysis, visualization, and AI. I love using technology to solve real-world problems and am eager to contribute to data-driven decision-making. Seeking internships and full-time opportunities to apply my skills in data science.
+Hi! I'm Shriyutha — A Data Analyst with a Master’s degree in Computational Science from the University of Colorado Boulder. I specialize in SQL (PostgreSQL), statistical analysis, and business intelligence.
+My work focuses on transforming structured and unstructured data into actionable insights through:
+SQL database design and advanced querying
+A/B testing and hypothesis experimentation
+Cohort and retention analysis
+Customer Lifetime Value (CLV) modeling
+RFM customer segmentation
+Dashboard development and KPI reporting
+I am currently seeking entry level Data Analyst or Business Analyst roles where I can contribute to data driven decision making and measurable business impact.
 ---
 
 
 ###  Experience
 
-**Process Associate**  
-rProcess Outsourcing Services — Mysuru, Karnataka, India  
-_June 2016 – Feb 2018_
-- Managed and collected large volumes of market data for consumer goods across UK, US, and Canadian markets.
-- Performed data entry and validation to ensure data accuracy and completeness.
-- Supported data analysis initiatives to identify trends and insights in product and consumer behavior.
-- Contributed to regular reporting and improved efficiency through streamlined data workflows.
+**Data Analyst Intern**  
+Unified Mentor Pvt. Ltd. | Sep 2025 – Dec 2025
+Cleaned and transformed structured datasets to improve reporting accuracy
+Performed exploratory data analysis to identify trends and performance patterns
+Developed SQL queries and automated reporting workflows
+Created dashboards and reports for stakeholders
 
+**rProcess Associate**
+rProcess Outsourcing Services | Jun 2016 – Feb 2018
+Managed and validated high volume market data across US, UK, and Canadian markets
+Ensured data accuracy and supported reporting initiatives
+Identified consumer behavior trends to support business insights
 ---
 
 ### Education
@@ -61,15 +73,26 @@ _June 2022 – May 2025_
 | Project | Tools | Summary |
 |--------|-------|---------|
 | [Starbucks Capstone](./projects/starbucks.md) | Python, Sklearn, Pandas | Predicted customer responses to marketing offers |
-| [Spotify Recommender](./projects/spotify.md) | Python, K-Means, Collaborative Filtering | Recommended songs based on user playlists |
-| [Amazon Review Analyzer](./projects/amazon.md) | Python, NLP, Recommender Systems | Predicted sentiment and improved product suggestions |
+| [Amazon Review Analyzer](./projects/amazon.md) | Python, NLP | Predicted sentiment and improved product suggestions |
+
+Online Retail Sales Database & Dashboard
+Designed a fully normalized relational database (3NF) using PostgreSQL and MySQL. Developed SQL queries, views, and dashboards to analyze revenue, product performance, and customer behavior.
+
+A/B Testing & Conversion Analysis
+Conducted statistical testing to evaluate conversion rate differences between control and treatment groups. Measured conversion lift and provided recommendations based on statistical significance.
+
+Customer Lifetime Value & Cohort Analysis
+Performed cohort-based retention analysis and calculated CLV using transactional data. Identified high-value customer segments contributing long-term revenue.
+
+RFM Customer Segmentation Dashboard
+Segmented customers using Recency, Frequency, and Monetary modeling. Built dashboards highlighting revenue contribution and retention risk segments.
 
 ---
 
 ###  Skills
 
 - **Languages & Tools:** Python, SQL, R, Pandas, Scikit-learn, Tableau  
-- **Techniques:** EDA, Data Cleaning, Machine Learning, NLP, A/B Testing  
+- **Techniques:** EDA, Data Cleaning, Machine Learning, A/B Testing  
 - **Tools:** Git, Jupyter, GitHub, GitHub Pages
 
 ###  Get in Touch
