@@ -22,7 +22,7 @@ Portfolio website: [![website](https://img.shields.io/badge/website-yellow?logo=
 
 ###  About Me
 
-Hi! I'm Shriyutha — A Data Analyst with a Master’s degree in Computational Science from the University of Colorado Boulder. I specialize in SQL (PostgreSQL), statistical analysis, and business intelligence.
+Hi! I'm Shriyutha — A Data Analyst with a Master's degree in Computational Science from the University of Colorado Boulder. I specialize in SQL (PostgreSQL), statistical analysis, and business intelligence.
 My work focuses on transforming structured and unstructured data into actionable insights through:
 SQL database design and advanced querying
 A/B testing and hypothesis experimentation
@@ -30,6 +30,9 @@ Cohort and retention analysis
 Customer Lifetime Value (CLV) modeling
 RFM customer segmentation
 Dashboard development and KPI reporting
+
+More recently, I've extended this into building AI-powered analytics applications — including tools that combine SQL, machine learning, and large language models to make data analysis accessible without requiring technical expertise.
+
 I am currently seeking entry level Data Analyst or Business Analyst roles where I can contribute to data driven decision making and measurable business impact.
 
 ---
@@ -85,7 +88,36 @@ Evaluated model performance using accuracy, precision, recall, F1-score, and ROC
 
 ###  Projects
 
-**1. Online Retail Sales Database & Analytics Dashboard**
+**1. Querypex — AI-Powered Data Analyst**
+
+Tools: React, TypeScript, Supabase (PostgreSQL), Claude (Anthropic), Bright Data
+
+Built an AI-powered data analyst application for the AI Factory / Native.builder Hackathon that connects to large datasets, profiles them automatically, and answers plain-English questions by generating and executing real SQL — with every answer showing the exact query behind it. Demoed against 1.5 million real, anonymized transactions from the Instacart Market Basket dataset.
+
+Key Highlights:
+- Built a transparent AI chat interface: natural language → generated SQL → executed query → answer, with the SQL always visible for verification
+- Implemented real machine learning (linear regression, logistic regression, PCA) in Supabase Edge Functions, with each model honestly self-reporting its own accuracy and limitations
+- Diagnosed and resolved real infrastructure issues at scale: a database quota limit and repeated query timeouts on a 1.5M-row table, solved using materialized views
+- Built four independent data connection methods: CSV/Excel upload, live database connection, generic API connector, and live web pricing via Bright Data
+- Delivered export tooling (CSV, PDF, PowerPoint) and a downloadable Jupyter notebook reproducing the full analysis pipeline in Python
+
+Live app: https://a996z8bc6hs2c2gk5n1c9iwoa.nativelyai.app
+GitHub: https://github.com/shriyutha/querypex
+
+**2. TalentPulse — AI-Powered Hiring Intelligence**
+
+Tools: Python, Pandas, Scikit-learn, Claude (Anthropic), Bright Data, Streamlit
+
+Built an AI-powered hiring intelligence tool for GTM and recruiting teams for the Bright Data × lablab.ai — Web Data Unlocked Hackathon, analyzing live job market data to surface skill-salary correlations and hiring trends.
+
+Key Highlights:
+- Combined real-time web data (via Bright Data) with statistical analysis to generate hiring insights
+- Applied correlation testing and trend analysis to identify which skills drive salary differences
+- Deployed as a live, interactive Streamlit application
+
+Live app: https://talentpulse-nw2wgszdfrsasc5vre28dr.streamlit.app
+
+**3. Online Retail Sales Database & Analytics Dashboard**
 
 Tools: PostgreSQL, MySQL, Tableau
 
@@ -97,7 +129,7 @@ Key Highlights:
 - Identified top performing products and revenue drivers
 - Optimized query performance using indexing
 
-**2. A/B Testing & Conversion Impact Analysis**
+**4. A/B Testing & Conversion Impact Analysis**
 
 Tools: Python, Pandas, SciPy
 
@@ -109,7 +141,7 @@ Key Highlights:
 - Delivered data backed recommendations
 - Visualized experiment results for stakeholder clarity
 
-**3. Customer Lifetime Value (LTV) & Cohort Retention Analysis**
+**5. Customer Lifetime Value (LTV) & Cohort Retention Analysis**
 
 Tools: Python, Data Visualization
 
@@ -121,7 +153,7 @@ Key Highlights:
 - Visualized revenue contribution by cohort
 - Provided recommendations to improve retention
 
-**4. RFM Customer Segmentation Dashboard**
+**6. RFM Customer Segmentation Dashboard**
 
 Tools: Python, Tableau
 
@@ -140,26 +172,9 @@ Key Highlights:
 - SQL: PostgreSQL, MySQL
 - Programming: Python (Pandas, NumPy, SciPy), R
 - Analytics: EDA, Data Cleaning, Data Mining, Data Modeling, A/B Testing, Hypothesis Testing, Cohort Analysis, CLV, RFM Segmentation
+- AI & Machine Learning: Claude (Anthropic API), Regression, Classification, PCA, Supabase, AI-powered application development
 - Visualization: Tableau, Matplotlib, Seaborn
 - Tools: pgAdmin, Git, Jupyter Notebook, Lucidchart, RStudio
-
----
-
-**Online Retail Sales Database & Dashboard**
-
-Designed a fully normalized relational database (3NF) using PostgreSQL and MySQL. Developed SQL queries, views, and dashboards to analyze revenue, product performance, and customer behavior.
-
-**A/B Testing & Conversion Analysis**
-
-Conducted statistical testing to evaluate conversion rate differences between control and treatment groups. Measured conversion lift and provided recommendations based on statistical significance.
-
-**Customer Lifetime Value & Cohort Analysis**
-
-Performed cohort based retention analysis and calculated CLV using transactional data. Identified high value customer segments contributing long term revenue.
-
-**RFM Customer Segmentation Dashboard**
-
-Segmented customers using Recency, Frequency, and Monetary modeling. Built dashboards highlighting revenue contribution and retention risk segments.
 
 ---
 
@@ -168,3 +183,5 @@ Segmented customers using Recency, Frequency, and Monetary modeling. Built dashb
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shriyutha-k-u-97b701186/) or check out my [GitHub](https://github.com/shriyutha).
 
 ---
+
+
