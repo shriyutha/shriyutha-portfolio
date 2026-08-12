@@ -102,6 +102,7 @@ Key Highlights:
 - Delivered export tooling (CSV, PDF, PowerPoint) and a downloadable Jupyter notebook reproducing the full analysis pipeline in Python
 
 Live app: https://a996z8bc6hs2c2gk5n1c9iwoa.nativelyai.app
+
 GitHub: https://github.com/shriyutha/querypex
 
 **2. TalentPulse — AI-Powered Hiring Intelligence**
